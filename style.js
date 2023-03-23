@@ -5,22 +5,22 @@ const mainViewstyle = StyleSheet.create({
     container:{
         flex:1,
     marginTop:0,
-    backgroundColor:'lightgrey',
+    backgroundColor:'whitesmoke',
     alignContent:'center'}
     })
     const view1style = StyleSheet.create({
         view1:{
             flex:0.4,
-            backgroundColor:"lightgrey",
+            backgroundColor:"whitesmoke",
             alignItems:'center',
             alignContent:'center',
-            paddingTop:50
+            paddingTop:20
         }
     })
     const view2style = StyleSheet.create({
         view2:{
             flex:0.5,
-            backgroundColor:'lightgrey',
+            backgroundColor:'whitesmoke',
             //alignContent:'center',
             alignItems:'center',
             paddingTop:40
@@ -30,7 +30,7 @@ const mainViewstyle = StyleSheet.create({
     const view3style = StyleSheet.create({
         view3:{
             flex:0.6,
-            backgroundColor:'lightgrey',
+            backgroundColor:'whitesmoke',
             alignItems:'center',
             marginTop:0,
             //marginBottom:20,
@@ -42,7 +42,7 @@ const mainViewstyle = StyleSheet.create({
     const view4style =StyleSheet.create({
         view4:{
             flex:0.2,
-            backgroundColor:'lightgrey',
+            backgroundColor:'whitesmoke',
             alignContent:'center',
             alignItems:'center',
 
@@ -52,7 +52,7 @@ const mainViewstyle = StyleSheet.create({
     const view5style =StyleSheet.create({
         view5:{
             flex:0.4,
-            backgroundColor:'lightgrey',
+            backgroundColor:'whitesmoke',
             alignItems:'center',
             alignContent:'center'
 
@@ -62,7 +62,7 @@ const mainViewstyle = StyleSheet.create({
     const view6style =StyleSheet.create({
         view6:{
             flex:0.1,
-            backgroundColor:'lightgrey'
+            backgroundColor:'whitesmoke'
 
         }
         
